@@ -1,5 +1,5 @@
 # Awesome-Zarr
-<img src="images/logo.png" alt="drawing" height="500"/>
+<img src="images/logo.png" alt="drawing" height="400"/>
 
 
 Zarr is a cloud-native, chunked, compressed, and hierarchical array data format.
