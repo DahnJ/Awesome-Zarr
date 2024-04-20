@@ -56,7 +56,7 @@ For an excellent in-depth overview, see the [ESIP](https://www.esipfed.org/) ser
 - [2023-05-22 ESIP CCC: Next Gen Zarr Part 3/3: accumulation proposal, Kerchunk and Pangeo-Forge](https://www.youtube.com/watch?v=ROsHdJI3-yw&ab_channel=ESIP)
 
 ## Libraries
-This list contains libraries that directly relate to Zarr in some way
+This list contains libraries that directly relate to Zarr in some way.
 
 For implementations of Zarr, see [Zarr Implementations](https://zarr.dev/implementations/).
 - [kerchunk](https://fsspec.github.io/kerchunk/), see [kerchunk section](#kerchunk)
