@@ -2,7 +2,7 @@
 <img src="images/logo.png" alt="drawing" height="400"/>
 
 
-Zarr is a cloud-native, chunked, compressed, and hierarchical array data format.
+[Zarr](https://zarr.dev/) is a cloud-native, chunked, compressed, and hierarchical array data format.
 
 
 # Contents
