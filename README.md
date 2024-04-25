@@ -73,7 +73,7 @@ Storage & I/O
 
 ETL
 - [Xarray](https://docs.xarray.dev/en/stable/index.html): Zarr is commonly written and accessed through xarray's API.
-    - Xarray has it's own [Zarr Encoding Specification](https://docs.xarray.dev/en/stable/internals/zarr-encoding-spec.html)
+    - Xarray has its own [Zarr Encoding Specification](https://docs.xarray.dev/en/stable/internals/zarr-encoding-spec.html)
 - [xarray-beam](https://github.com/google/xarray-beam/): Integration of [xarray](https://docs.xarray.dev/en/stable/index.html) and [Apache Beam](https://beam.apache.org/) built using Zarr.
 - [Pangeo-forge](https://pangeo-forge.org/): Open-source data platform for transforming datasets into [analysis-ready cloud-optimized](https://ieeexplore.ieee.org/document/9354557) formats.
     - See [Pangeo Forge in 4 minutes](https://www.youtube.com/watch?v=qfAC-emFUxc&ab_channel=CharlesStern) and [Pangeo Forge: Crowdsourcing Open Data in the Cloud- Ryan Abernathey | SciPy 2022](https://www.youtube.com/watch?v=sY20UpYCAEE&ab_channel=Enthought)
@@ -105,7 +105,7 @@ In the future, Kerchunk will be split into upstream functionality in Zarr itself
 
 ## Articles
 - [NASA IMPACT: Zarr Visualization Report](https://nasa-impact.github.io/zarr-visualization-report/)
-- [Earthmover: cloud native data loaders for machine learning using zarr and xarray](https://earthmover.io/blog/cloud-native-dataloader)
+- [Earthmover: cloud-native data loaders for machine learning using zarr and xarray](https://earthmover.io/blog/cloud-native-dataloader)
 - [Zarr Sprint Recap](https://zarr.dev/blog/zarr-sprint-2024/) relevant overviews
 
 ## Talks & Videos
@@ -152,7 +152,7 @@ Essentially all other common array data formats can be exposed as Zarr. See [Ker
 
 ### NetCDF & HDF5
 
-Zarr, NetCDF, and HDF5 are three separate data formats that nonetheless relate to each other in multiple way.
+Zarr, NetCDF, and HDF5 are three separate data formats that nonetheless relate to each other in multiple ways.
 - Zarr inherits its hierarchical structure from HDF5. 
 - Zarr is commonly accessed through [xarray](https://docs.xarray.dev/en/stable/index.html), whose [data models are based on the NetCDF data format](https://docs.xarray.dev/en/stable/getting-started-guide/why-xarray.html#core-data-structures)
 - NetCDF4 can [use HDF5 as a backend](https://www.bic.mni.mcgill.ca/users/sean/Docs/netcdf/guide.txn_85.html)
