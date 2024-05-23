@@ -49,6 +49,7 @@ Two excellent and up-to-date introductory talks:
 [Zarr V3](https://zarr-specs.readthedocs.io/en/latest/v3/core/v3.0.html) is the upcoming version of Zarr. It is a major update that will bring many new features and improvements. 
 
 If you're getting into Zarr now, it might be a good idea to start with Zarr V3.
+- [Zarr-Python 3 and why you should be excited!](https://www.youtube.com/watch?v=g0nq4TtWuhM&ab_channel=Pangeo)
 
 For an excellent in-depth overview, see the [ESIP](https://www.esipfed.org/) series of talks
 - [2023-03-27 ESIP Cloud Computing Cluster: Zarr - The Next Generation](https://www.youtube.com/watch?v=50_LwbIUXi0&ab_channel=ESIP)
