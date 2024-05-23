@@ -118,7 +118,9 @@ Existing lists
 - [Introductory videos](#introductory-videos) in this list
 
 Talks
-- [Earthmover Webinar: Building a Planetary Scale Earth Observation Data Cube in Zarr ](https://vimeo.com/935616988/d9de7a97e9) with [code repository](https://github.com/earth-mover/serverless-datacube-demo)
+- [Earthmover Webinar: Building a Planetary Scale Earth Observation Data Cube in Zarr ](https://vimeo.com/935616988/d9de7a97e9) with [code repository](https://github.com/earth-mover/serverless-datacube-demo) and [slides](https://app.hubspot.com/documents/22822350/view/788058450?accessId=9423df)
+- [Earthmover Webinar: Analysis-ready Weather Forecast Data Cubes with Zarr
+](https://www.youtube.com/watch?v=JwsrPVJPmag&ab_channel=Earthmover) with [code repository](https://github.com/earth-mover/forecast-datacube-demo) and [slides](https://app.hubspot.com/documents/22822350/view/814797193?accessId=e3acdd)
 - [Presentation | Zarr: Community specification of large, cloud-optimised, N-dimensional, typed array storage](https://zenodo.org/records/8221177)
 - Presentations for Sanket Verma's talks: [SciPy 2023](https://github.com/MSanKeys963/presentations/tree/main/scipy_2023) and [PyCon DE 2023](https://github.com/MSanKeys963/presentations/tree/main/pycon_de_pydata_berlin_2023)
 
