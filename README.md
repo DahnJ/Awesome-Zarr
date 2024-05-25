@@ -1,4 +1,6 @@
-# Awesome-Zarr
+# Zarr 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 <img src="images/logo.png" alt="drawing" height="400"/>
 
 
