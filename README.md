@@ -151,7 +151,9 @@ Zarr has seen most work on visualization in the bioimaging community:
 # Topics
 ## Zarr & other array data formats
 
-For a general overview, see [Cloud-Optimized Geospatial Formats Guide](https://guide.cloudnativegeo.org/).
+For a general overview, see 
+- [Introduction to Cloud-Native Geospatial Formats](https://www.youtube.com/watch?v=zMPFHwW7Ujo&ab_channel=Cloud-NativeGeospatialFoundation)
+- [Cloud-Optimized Geospatial Formats Guide](https://guide.cloudnativegeo.org/).
 
 Essentially all other common array data formats can be exposed as Zarr. See [Kerchunk](#kerchunk).
 
