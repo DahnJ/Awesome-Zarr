@@ -129,6 +129,7 @@ Talks
 ## Life sciences
 Zarr has seen great adoption in the life sciences domain.
 
+- [acquire-zarr](https://github.com/acquire-project/acquire-zarr) - Stream image data to multiscale OME-Zarr through C and Python APIs, using filesystem or S3-compatible storage. Random-access writing is not supported.
 - [bdz](https://github.com/openssbd/bdz): Zarr-based format for storing quantitative biosystems dynamics data
 - [ome-zarr-py](https://github.com/ome/ome-zarr-py): Implementation of next-generation file format ([NGFF](https://ngff.openmicroscopy.org/)) specifications for storing bioimaging data in the cloud.
 - [ez_zarr](https://github.com/fmicompbio/ez_zarr): Easy, high-level access to OME-Zarr filesets
